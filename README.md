@@ -28,11 +28,16 @@ Este bootcamp é dividido em várias aulas, cada uma focando em um tópico espec
    - Criação e recebimento de notificações.
    - Exemplo prático de notificação com um botão.
 
+6. **Primeiro projeto ESP-IDF:**
+   - Introdução a programação com ESP-IDF.
+   - Criação e recebimento de notificações.
+   - Exemplo prático de notificação com um botão.
+
 ## Pré-requisitos
 
 - Conhecimento básico de programação em C/C++.
 - Um ESP32 (ou placa compatível).
-- Acesso a um ambiente de desenvolvimento com a plataforma Arduino IDE configurada para o ESP32.
+- Acesso a um ambiente de desenvolvimento com a plataforma Arduino IDE configurada para o ESP32 e ao ESP-IDF.
 
 ## Como Usar Este Repositório
 
