@@ -31,6 +31,9 @@ Este bootcamp é dividido em várias aulas, cada uma focando em um tópico espec
 6. **Primeiro projeto ESP-IDF:**
    - Introdução a programação com ESP-IDF.
 
+7. **ESP-IDF e FreeRTOS:**
+   - Usando tasks, semáforos e filas com ESP-IDF.
+
 ## Pré-requisitos
 
 - Conhecimento básico de programação em C/C++.
