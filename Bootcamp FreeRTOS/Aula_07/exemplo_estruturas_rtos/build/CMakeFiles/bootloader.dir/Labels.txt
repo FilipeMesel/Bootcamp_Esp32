@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/CMakeFiles/bootloader
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/CMakeFiles/bootloader.rule
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/CMakeFiles/bootloader-complete.rule
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/xampp/htdocs/Bootcamp_Esp32/Bootcamp FreeRTOS/Aula_07/exemplo_estruturas_rtos/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
