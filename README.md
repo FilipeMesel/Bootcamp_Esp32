@@ -30,8 +30,6 @@ Este bootcamp é dividido em várias aulas, cada uma focando em um tópico espec
 
 6. **Primeiro projeto ESP-IDF:**
    - Introdução a programação com ESP-IDF.
-   - Criação e recebimento de notificações.
-   - Exemplo prático de notificação com um botão.
 
 ## Pré-requisitos
 
