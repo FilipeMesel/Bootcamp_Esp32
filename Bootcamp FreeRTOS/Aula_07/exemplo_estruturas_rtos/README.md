@@ -3,10 +3,15 @@
 
 # _Sample project_
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
+This is your first project with ESP-IDF here, you'd to access vs-code, pressed ctrl+shift+p to create a new simple project with board ESP32 WROOVER 3.3V
 
-This is the simplest buildable example. The example is used by command `idf.py create-project`
-that copies the project to user specified path and set it's name. For more information follow the [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project)
+    - You'd to choose "Create project using template simple project"
+    - You pressed "Yes" in the botton-left part of screen monitor
+    - You'd to access "ESP-IDF" cmd window and used "idf.py build" and "idf.py -p COM13 flash monitor"
+
+## What's here?
+
+This project has examples about how to declare and use tasks, queues and binary sempahores
 
 
 
