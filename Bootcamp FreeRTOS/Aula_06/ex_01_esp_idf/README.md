@@ -4,9 +4,9 @@
 # _Sample project_
 
 This is your first project with ESP-IDF here, you'd to access vs-code, pressed ctrl+shift+p to create a new simple project with board ESP32 WROOVER 3.3V
-    1. You'd to choose "Create project using template simple project"
-    2. You pressed "Yes" in the botton-left part of screen monitor
-    3. You'd to access "ESP-IDF" cmd window and used "idf.py build" and "idf.py -p COM13 flash monitor"
+    - You'd to choose "Create project using template simple project"
+    - You pressed "Yes" in the botton-left part of screen monitor
+    - You'd to access "ESP-IDF" cmd window and used "idf.py build" and "idf.py -p COM13 flash monitor"
 
 
 
